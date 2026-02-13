@@ -1,0 +1,21 @@
+<suite name="January">
+<test name = "Reports" parallel='true'>
+<classes>
+
+<class name="qedge.Sept17.FirstTestNG">
+</class>
+
+<class name="qedge.Sept17.NewTest1">
+</class>
+
+<!--<class name="qedge.Sept17.TestNGClass1">
+</class>-->
+
+<class name="qedge.Sept17.TestNGClass2">
+</class>
+
+
+
+</classes>
+</test>
+</suite>
